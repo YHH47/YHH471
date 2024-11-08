@@ -1,0 +1,797 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2024-09-20T10:27:14.568",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "2",
+    "object_repr": "yhh1",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2024-09-20T10:28:18.517",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "1",
+    "object_repr": "yhh",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Email address\", \"Last login\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2024-09-23T18:17:53.807",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Movie object (1)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2024-09-23T18:28:13.862",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Movie object (2)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2024-09-23T18:29:04.008",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Movie object (1)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2024-09-25T16:53:09.863",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Movie object (3)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2024-09-25T16:54:03.358",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Movie object (4)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2024-09-25T16:54:40.669",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Movie object (5)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2024-09-25T17:32:48.572",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "Book object (1)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2024-09-25T17:33:38.933",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "2",
+    "object_repr": "Book object (2)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2024-09-25T17:49:20.444",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "3",
+    "object_repr": "Book object (3)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2024-09-25T17:49:50.035",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "4",
+    "object_repr": "Book object (4)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2024-09-25T17:50:23.252",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "5",
+    "object_repr": "Book object (5)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2024-09-25T17:50:55.964",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "6",
+    "object_repr": "Book object (6)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2024-09-25T17:51:29.237",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "7",
+    "object_repr": "Book object (7)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2024-09-25T17:51:58.185",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "8",
+    "object_repr": "Book object (8)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2024-09-25T17:52:32.882",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "9",
+    "object_repr": "Book object (9)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 2,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 2,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 2,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 2,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 3,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 3,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 3,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 3,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 4,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 4,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 4,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 4,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 5,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 5,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 5,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 5,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 6,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 6,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 6,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 6,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add movie",
+    "content_type": 7,
+    "codename": "add_movie"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change movie",
+    "content_type": 7,
+    "codename": "change_movie"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete movie",
+    "content_type": 7,
+    "codename": "delete_movie"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view movie",
+    "content_type": 7,
+    "codename": "view_movie"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add 读书",
+    "content_type": 8,
+    "codename": "add_book"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change 读书",
+    "content_type": 8,
+    "codename": "change_book"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete 读书",
+    "content_type": 8,
+    "codename": "delete_book"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view 读书",
+    "content_type": 8,
+    "codename": "view_book"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$870000$hwDMMWfltiZhtjXPiSjUW0$JfFy/n+5XPPjibGEKVzICCN2296He9hBGar+OhnyiZM=",
+    "last_login": "2024-09-29T10:24:52.178",
+    "is_superuser": true,
+    "username": "yhh",
+    "first_name": "",
+    "last_name": "",
+    "email": "2766436644@qq.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2024-09-14T17:59:00",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 2,
+  "fields": {
+    "password": "pbkdf2_sha256$870000$LNMIXABeayCqi2deJ1rYZM$jRygL/PalKrJoOsPzB3CuRnczYLZgBZ6fuceEzyE3jo=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "yhh1",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-09-20T10:27:14.233",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 1,
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 2,
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 3,
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 4,
+  "fields": {
+    "app_label": "auth",
+    "model": "user"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 5,
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 6,
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 7,
+  "fields": {
+    "app_label": "movie",
+    "model": "movie"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 8,
+  "fields": {
+    "app_label": "book",
+    "model": "book"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "35ipxobvmno2t73gma73iip5odw26ucu",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGln-b0xJzxmsXX9wANlSnFSIu0OkFNC-mXkvFnBba9hGXsKc2JlJdvrdCOMjtx2kO7Zb57G3dZmJ7wo_6ODXnvLzcrh_BxVH_dZWeCtIGcxWO4eqGBIG1eRjBACLJYIkDcl7WzwUiYQTOZ0hJZmtV-z9AdNVN-A:1srTL0:8sH2revsUkdy4iUJVfIwC6D8Ol7YwNvgTdYfnRseNSE",
+    "expire_date": "2024-10-04T10:25:38.489"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "73plpvvwil2vobxqm2g350nwu9wqcyjl",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGln-b0xJzxmsXX9wANlSnFSIu0OkFNC-mXkvFnBba9hGXsKc2JlJdvrdCOMjtx2kO7Zb57G3dZmJ7wo_6ODXnvLzcrh_BxVH_dZWeCtIGcxWO4eqGBIG1eRjBACLJYIkDcl7WzwUiYQTOZ0hJZmtV-z9AdNVN-A:1sujcC:uD1dedjv2lr_Ga7VmxY-p9V6--g88-uDDY-oCE2o-LA",
+    "expire_date": "2024-10-13T10:24:52.187"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "8293tltntj9ll06gezm0zy02j8lc1abk",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGln-b0xJzxmsXX9wANlSnFSIu0OkFNC-mXkvFnBba9hGXsKc2JlJdvrdCOMjtx2kO7Zb57G3dZmJ7wo_6ODXnvLzcrh_BxVH_dZWeCtIGcxWO4eqGBIG1eRjBACLJYIkDcl7WzwUiYQTOZ0hJZmtV-z9AdNVN-A:1ssfod:ECYaWaaZzdiVgUCyFPs2buDyl-Fld6LxebGbwRTcEKI",
+    "expire_date": "2024-10-07T17:57:11.861"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "9jx31g2toqnc4b5xotz83miib9ohddgu",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGln-b0xJzxmsXX9wANlSnFSIu0OkFNC-mXkvFnBba9hGXsKc2JlJdvrdCOMjtx2kO7Zb57G3dZmJ7wo_6ODXnvLzcrh_BxVH_dZWeCtIGcxWO4eqGBIG1eRjBACLJYIkDcl7WzwUiYQTOZ0hJZmtV-z9AdNVN-A:1stNca:RChDdhTsCTZt1IWtaThF1iWT1N-btvWKi5vNCCXpn5A",
+    "expire_date": "2024-10-09T16:43:40.298"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "9kbqoklnnbosi1sd7gpkhxh2gelapeeu",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGln-b0xJzxmsXX9wANlSnFSIu0OkFNC-mXkvFnBba9hGXsKc2JlJdvrdCOMjtx2kO7Zb57G3dZmJ7wo_6ODXnvLzcrh_BxVH_dZWeCtIGcxWO4eqGBIG1eRjBACLJYIkDcl7WzwUiYQTOZ0hJZmtV-z9AdNVN-A:1spPZh:JdUO2FO1lbihbNe4WI6Ia1nR2usjXEDUOjuEuJUs72w",
+    "expire_date": "2024-09-28T18:00:17.471"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "c0q4g6q6lcrv44jlj00geycx6clbnb8p",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGln-b0xJzxmsXX9wANlSnFSIu0OkFNC-mXkvFnBba9hGXsKc2JlJdvrdCOMjtx2kO7Zb57G3dZmJ7wo_6ODXnvLzcrh_BxVH_dZWeCtIGcxWO4eqGBIG1eRjBACLJYIkDcl7WzwUiYQTOZ0hJZmtV-z9AdNVN-A:1sseto:-RWc_nimL_x4k704ubz12SKnq9oeE-Ua6YNEvzS0wfM",
+    "expire_date": "2024-10-07T16:58:28.345"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "vesiyovkws4bsfjh3mjvi8piwx9ml3ti",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGln-b0xJzxmsXX9wANlSnFSIu0OkFNC-mXkvFnBba9hGXsKc2JlJdvrdCOMjtx2kO7Zb57G3dZmJ7wo_6ODXnvLzcrh_BxVH_dZWeCtIGcxWO4eqGBIG1eRjBACLJYIkDcl7WzwUiYQTOZ0hJZmtV-z9AdNVN-A:1su1XA:BiHgLFsQh6YArrC34JnDdL0H5B06bhELVY-a6XwKgZs",
+    "expire_date": "2024-10-11T11:20:44.499"
+  }
+},
+{
+  "model": "movie.movie",
+  "pk": 2,
+  "fields": {
+    "title": "默杀 (2024)",
+    "description": "在一个宁静的社区里，受人尊敬的中年理发师马哈拉吉与女儿乔蒂和拉克希米住在一起。当马哈拉吉向警方报案称有蒙面入侵者袭击了他并抢劫了拉克希米时，当局却拒绝了这一说法，并怀疑她所失财物的真实性。尽管他多次试图寻求帮助，但他还是不惜一切代价，甚至在女儿回来之前亲自调查。随着疑点越来越多，马哈拉吉的理智受到质疑，谜团也越来越深……",
+    "image": "movie/images/p2909638286_ja7Rkme.webp",
+    "url": "https://movie.douban.com/subject/36934908/?tag=%E7%83%AD%E9%97%A8&from=gaia"
+  }
+},
+{
+  "model": "movie.movie",
+  "pk": 3,
+  "fields": {
+    "title": "荒野机器人 The Wild Robot (2024)",
+    "description": "影片改编自皮特·布朗的同名畅销书，聚焦机器人萝斯（露皮塔·尼永奥 Lupita Nyong'o 配音）的冒险之旅。她因一场意外漂流到了孤岛，偏离了程序预设的发展轨道，不得不面对险恶的生存环境，并试图与充满戒备和敌意的野生动物建立关系。随着萝斯遇到了一只小灰雁（基特·康纳 Kit Connor 配音）并成为了他的“妈妈”，她逐渐在这座荒岛中找到了归属感。被定义好的编程即将被打破，一段关乎爱的心灵故事即将展开。",
+    "image": "movie/images/p2913022141.webp",
+    "url": "https://movie.douban.com/subject/36689857/"
+  }
+},
+{
+  "model": "movie.movie",
+  "pk": 4,
+  "fields": {
+    "title": "姥姥的外孙 หลานม่า (2024)",
+    "description": "出身泰国华人家庭的无业年轻人阿安（马群耀 饰）看到堂妹因照顾病重的爷爷而继承房产后，也对身患绝症的姥姥（乌萨·萨梅坎姆 饰）动了心思，计划复刻堂妹的“致富之路”获取百万遗产。但面对同样“努力”的舅舅们和挑剔毒舌的姥姥，阿安这条争当全职孝孙的“啃姥致富”之路似乎没有他预想的那么顺利……",
+    "image": "movie/images/p2911511570.webp",
+    "url": "https://movie.douban.com/subject/36328210/"
+  }
+},
+{
+  "model": "movie.movie",
+  "pk": 5,
+  "fields": {
+    "title": "野孩子 (2024)",
+    "description": "影片取材自“流浪兄弟”真实事件，聚焦“社会困境儿童”群体。讲述了⼀段“小偷”哥哥和“孤⼉”弟弟的流浪路，⼀场温暖的守护与救赎。 　　独自流浪生活的男孩马亮（王俊凯 饰）机缘巧合下遇见了被家人遗忘、无人关照的孩子轩轩（关子勰 饰），相似的命运让两个孤独的少年渐行渐近，风雨中他们一起建立了一个小小的家，拥抱取暖彼此守护。然而一场意外打破了一切，一群不速之客闯入了他们的生活，马亮和轩轩的命运又将何去何从……",
+    "image": "movie/images/p2912657832.webp",
+    "url": "https://movie.douban.com/subject/36399203/"
+  }
+},
+{
+  "model": "book.book",
+  "pk": 1,
+  "fields": {
+    "title": "红楼梦",
+    "description": "《红楼梦》是一部百科全书式的长篇小说。以宝黛爱情悲剧为主线，以四大家族的荣辱兴衰为背景，描绘出18世纪中国封建社会的方方面面，以及封建专制下新兴资本主义民主思想的萌动。结构宏大、情节委婉、细节精致，人物形象栩栩如生，声口毕现，堪称中国古代小说中的经 典。\r\n\r\n由红楼梦研究所校注、人民文学出版社出版的《红楼梦》以庚辰（1760）本《脂砚斋重评石头记》为底本，以甲戌（1754）本、已卯（1759）本、蒙古王府本、戚蓼生序本、舒元炜序本、郑振铎藏本、红楼梦稿本、列宁格勒藏本（俄藏本）、程甲本、程乙本等众多版本为参校本，是一个博采众长、非常适合大众阅读的本子；同时，对底本的重要修改，皆出校记，读者可因以了解《红楼梦》的不同版本状况。\r\n\r\n红学所的校注本已印行二十五年，其间1994年曾做过一次修订，又十几年过去，2008年推出修订第三版，体现了新的校注成果和科研成果。...",
+    "image": "book/images/s1070959.jpg",
+    "url": "https://book.douban.com/subject/1007305/"
+  }
+},
+{
+  "model": "book.book",
+  "pk": 2,
+  "fields": {
+    "title": "活着",
+    "description": "《活着(新版)》讲述了农村人福贵悲惨的人生遭遇。福贵本是个阔少爷，可他嗜赌如命，终于赌光了家业，一贫如洗。他的父亲被他活活气死，母亲则在穷困中患了重病，福贵前去求药，却在途中被国民党抓去当壮丁。经过几番波折回到家里，才知道母亲早已去世，妻子家珍含辛茹苦地养大两个儿女。此后更加悲惨的命运一次又一次降临到福贵身上，他的妻子、儿女和孙子相继死去，最后只剩福贵和一头老牛相依为命，但老人依旧活着，仿佛比往日更加洒脱与坚强。\r\n\r\n《活着(新版)》荣获意大利格林扎纳•卡佛文学奖最高奖项（1998年）、台湾《中国时报》10本好书奖（1994年）、香港“博益”15本好书奖（1994年）、第三届世界华文“冰心文学奖”（2002年），入选香港《亚洲周刊》评选的“20世纪中文小说百年百强”、中国百位批评家和文学编辑评选的“20世纪90年代最有影响的10部作品”。",
+    "image": "book/images/s29869926.jpg",
+    "url": "https://book.douban.com/subject/4913064/"
+  }
+},
+{
+  "model": "book.book",
+  "pk": 3,
+  "fields": {
+    "title": "哈利·波特",
+    "description": "《哈利·波特(共7册)(精)》编著者J.K.罗琳。\r\n\r\n《哈利·波特(共7册)(精)》内容提要：2000年的一个深夜，在美国书店的烛光中，穿着黑斗篷，戴着小眼镜的店员开始销售“哈利o波特4”英文版，从此哈利·波特系列图书席卷全球，也是在这一年，简体中文版“哈利o波特”系列图书通过人民文学出版社引进版权登陆中国，作者J.K.罗琳用一种简单的魔法游戏将魔幻的故事传递给了中国乃至全球的青少年读者，与此同时商业电影的改编更是将这部魔幻题材的小说推向了巅峰。\r\n\r\n截止到2013年，哈利·波特系列图书累计销量达到200多万套。\r\n\r\n此次，人民文学出版社隆重推出《哈利o波特（精装本）》（全七册），此套精装珍藏版《哈利·波特》听取广大资深哈迷的心声，恢复选用陪伴广大哈迷十年之久深入人心的原有封面，并在此基础上提高工艺、完善装帧，配有独具匠心的精美函套，使...",
+    "image": "book/images/s29101586.jpg",
+    "url": "https://book.douban.com/subject/24531956/"
+  }
+},
+{
+  "model": "book.book",
+  "pk": 4,
+  "fields": {
+    "title": "1984",
+    "description": "★村上春树以《1Q84》向本书致敬\r\n\r\n★著名学者刘绍铭经典译本内地首次出版\r\n\r\n★62种文字风靡110个国家，全球销量超过5000万册\r\n\r\n★《时代周刊》“最好的100本英语小说”\r\n\r\n★兰登书屋“100本20世纪最佳英语小说”\r\n\r\n★入选英美中学生必读书书目\r\n\r\n1936年以来，我所写的每 一部严肃作品，都是直接或间接地反对极权主义，支持我所理解的民主社会主义。 ——乔治•奥威尔（《我为何写作》）\r\n\r\n《1984》是一部杰出的政治寓言小说，也是一部幻想小说。作品刻画了人类在极权主义社会的生存状态，有若一个永不褪色的警示标签，警醒世人提防这种预想中的黑暗成为现实。历经几十年，其生命力益显强大，被誉为20世纪影响最为深远的文学经典之一。",
+    "image": "book/images/s4371408.jpg",
+    "url": "https://book.douban.com/subject/4820710/"
+  }
+},
+{
+  "model": "book.book",
+  "pk": 5,
+  "fields": {
+    "title": "三体全集",
+    "description": "《地球往事·三体》\r\n\r\n文化大革命如火如荼进行的同时，军方探寻外星文明的绝秘计划“红岸工程”取得了突破性进展。但在按下发射键的那一刻，历经劫难的叶文洁没有意识到，她彻底改变了人类的命运。\r\n\r\n地球文明向宇宙发出的第一声啼鸣，以太阳为中心，以光速向宇宙深处飞驰……\r\n\r\n四光年外，“三体文明”正苦苦挣扎——三颗无规则运行的太阳主导下的百余次毁灭与重生逼迫他们逃离母星。而恰在此时，他们接收到了地球发来的信息。\r\n\r\n在运用超技术锁死地球人的基础科学之后，三体人庞大的宇宙舰队开始向地球进发……人类的末日悄然来临。\r\n\r\n《地球往事·黑暗森林》\r\n\r\n三体人在利用魔法般的科技锁死了地球人的科学之后，庞大的宇宙舰队杀气腾腾地直扑太阳系，意欲清除地球文明。\r\n\r\n面对前所未有的危局，经历过无数磨难的地球人组建起同样庞大的太空舰队，同时，利用三体人思维透明的致命缺陷，制订了神秘莫测的“面壁计划”，精选...",
+    "image": "book/images/s28357056.jpg",
+    "url": "https://book.douban.com/subject/6518605/"
+  }
+},
+{
+  "model": "book.book",
+  "pk": 6,
+  "fields": {
+    "title": "百年孤独",
+    "description": "《百年孤独》是魔幻现实主义文学的代表作，描写了布恩迪亚家族七代人的传奇故事，以及加勒比海沿岸小镇马孔多的百年兴衰，反映了拉丁美洲一个世纪以来风云变幻的历史。作品融入神话传说、民间故事、宗教典故等神秘因素，巧妙地糅合了现实与虚幻，展现出一个瑰丽的想象世界，成为20世纪最重要的经典文学巨著之一。1982年加西亚•马尔克斯获得诺贝尔文学奖，奠定世界级文学大师的地位，很大程度上乃是凭借《百年孤独》的巨大影响。",
+    "image": "book/images/s27237850.jpg",
+    "url": "https://book.douban.com/subject/6082808/"
+  }
+},
+{
+  "model": "book.book",
+  "pk": 7,
+  "fields": {
+    "title": "飘",
+    "description": "小说中的故事发生在1861年美国南北战争前夕。生活在南方的少女郝思嘉从小深受南方文化传统的熏陶，可在她的血液里却流淌着野性的叛逆因素。随着战火的蔓廷和生活环境的恶化，郝思嘉的叛逆个性越来越丰满，越鲜明，在一系列的的挫折中她改造了自我，改变了个人甚至整个家族的命运，成为时代时势造就的新女性的形象。\r\n\r\n作品在描绘人物生活与爱情的同时，勾勒出南北双方在政治，经济，文化各个层次的异同，具有浓厚的史诗风格，堪称美国历史转折时期的真实写照，同时也成为历久不衰的爱情经典。",
+    "image": "book/images/s1078958.jpg",
+    "url": "https://book.douban.com/subject/1068920/"
+  }
+},
+{
+  "model": "book.book",
+  "pk": 8,
+  "fields": {
+    "title": "动物农场",
+    "description": "《动物农场》是奥威尔最优秀的作品之一，是一则入木三分的反乌托的政治讽喻寓言。\r\n\r\n农场的一群动物成功地进行了一场“革命”，将压榨他们的人类东家赶出农场，建立起一个平等的动物社会。然而，动物领袖，那些聪明的猪们最终却篡夺了革命的果实，成为比人类东家更加独裁和极权的统治者。",
+    "image": "book/images/s2347590.jpg",
+    "url": "https://book.douban.com/subject/2035179/"
+  }
+},
+{
+  "model": "book.book",
+  "pk": 9,
+  "fields": {
+    "title": "三国演义（全二册）",
+    "description": "《三国演义》又名《三国志演义》、《三国志通俗演义》，是我国小说史上最著名最杰出的长篇章回体历史小说。 《三国演义》的作者是元末明初人罗贯中，由毛纶，毛宗岗父子批改。在其成书前，“三国故事”已经历了数百年的历史发展过程。在唐代，三国故事已广为流传，连儿童都很熟悉。随着市民文艺的发展，宋代的“说话”艺人，已有专门说三国故事的，当时称为“说三分”。元代出现的《三国志平话》，实际上是从说书人使用的本子，虽较简略粗糙，但已初肯《三国演义》的规模。罗贯中在群众传说和民间艺人创作的基础上，又依据陈寿《三国志》及裴松之注中所征引的资料（还包括《世说新语》及注中的资料），经过巨大的创作劳动，写在了规模宏伟的巨著——《三国志通俗演义》全书24卷，240回。后来经过毛纶，毛宗岗父子批改，形成我们现在所见的《三国演义》120回版",
+    "image": "book/images/s1076932.jpg",
+    "url": "https://book.douban.com/subject/1019568/"
+  }
+}
+]
